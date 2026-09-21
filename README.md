@@ -4,6 +4,14 @@ Saturdays on Sunday is a Reddit app that groups NFL players by college and ranks
 
 The current version is a historical demo using 2024 regular-season Week 1. Scores are provisional; automatic weekly updates are not yet available. Moderators control when rankings posts are created.
 
+## Background
+
+I often found myself watching NFL games just to follow players I liked in college. As a Texas fan, after years of feeling like my school didn't have much of a presence in the NFL, I was excited to see more familiar players making their way into the league. I wanted to keep up with how they were doing and see how they stacked up against players from other schools.
+
+There are a few sites that track college alumni in the NFL, but I couldn't find one place that brought together the players, their stats, and school rankings. So I decided to build the view I wanted to use.
+
+I've mostly been a lurker on r/CFB, and Reddit felt like the right home for this. My hope is that it gives college football fans something to follow and discuss between Saturdays, when most of the football on offer is in the NFL.
+
 ## Documentation
 
 - [Scoring methodology](scoring.md)
