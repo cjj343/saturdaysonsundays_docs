@@ -30,6 +30,6 @@ Do not include sensitive information in public GitHub issues.
 
 ## Publication status
 
-The Terms and Privacy Policy are drafts pending the developer's review. Set an effective date before publishing those policies. Recheck the Privacy Policy when live data fetching or storage is added.
+The Terms and Privacy Policy have been reviewed by the developer and are effective September 21, 2026. Recheck the Privacy Policy when live data fetching or storage is added.
 
 This repository contains public-facing documentation only. It does not grant a license to the app's source code. Third-party data and materials retain their respective licenses.

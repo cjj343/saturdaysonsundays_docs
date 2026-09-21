@@ -1,7 +1,5 @@
 # Terms and Conditions
 
-**Draft for developer review — not yet effective.**
-
 Effective date: 21SEP2026
 
 ## About the app

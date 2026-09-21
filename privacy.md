@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Draft for developer review — not yet effective.**
-
 Effective date: 21SEP2026
 
 ## Scope and operator
